@@ -39,7 +39,8 @@
 
 					echo "<td>";
 		            echo "<a href='update.php?ubah_nim=".$data['nim']."'>Edit</a> | ";
-		            echo "<a href='delete.php?hapus_nim=".$data['nim']."'>Hapus</a>";
+		            echo "<a href='delete.php?hapus_nim=".$data['nim']."'>Hapus</a> | ";
+		            echo "<a href='lihat_gambar.php?gambar_nim=".$data['nim']."'>Gambar</a>";
 		            echo "</td>";
 
 					echo "</tr>";
