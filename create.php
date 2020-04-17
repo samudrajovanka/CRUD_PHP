@@ -32,12 +32,6 @@
 			</tr>
 
 			<tr>
-				<td><label for="gambar">Gambar</label></td>
-				<td>:</td>
-				<td><input type="file" id="gambar" name="gambar"></td>
-			</tr>
-
-			<tr>
 				<td><button type="submit" name="simpan">Simpan</button></td>
 			</tr>
 		</table>
